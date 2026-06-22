@@ -12,7 +12,9 @@ skills:
   - "Gestión"
 url: 
 institucion: 
-imagen: 
+imagen: https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80
+video: "https://assets.mixkit.co/videos/preview/mixkit-forest-stream-in-the-sunlight-529-large.mp4"
+destacado: false
 ---
 
 ## Por qué este master

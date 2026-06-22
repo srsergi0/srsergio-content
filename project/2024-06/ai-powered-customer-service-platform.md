@@ -13,7 +13,9 @@ skills:
   - "UX"
 url: 
 institucion: "Giant Media"
-imagen: 
+imagen: https://images.unsplash.com/photo-1531747118685-ca8fa6e08806?auto=format&fit=crop&w=1200&q=80
+video: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+destacado: true
 ---
 
 ## El reto
