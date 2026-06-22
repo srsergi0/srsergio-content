@@ -4,7 +4,7 @@ tipo: "proyecto"
 fecha: "2026-05"
 titulo: "Anki Universal Extractor"
 subtitulo: "Open Source · Data Tool"
-descripcion: "Extrae mazos de Anki (.apkg) a JSON limpio — libera tus flashcards de la base de datos de Anki para usarlas donde quieras."
+descripcion: "Extracts Anki decks (.apkg) into clean JSON — freeing your flashcards from the Anki database to use them wherever you want."
 skills:
   - "TypeScript"
   - "Bun"

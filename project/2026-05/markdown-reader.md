@@ -4,7 +4,7 @@ tipo: "proyecto"
 fecha: "2026-05"
 titulo: "Markdown Reader"
 subtitulo: "Open Source · Desktop App"
-descripcion: "Lector de Markdown nativo para desktop construido con Electrobun y Bun — 14MB, arranque en 50ms, sin Chromium empaquetado."
+descripcion: "Native desktop Markdown reader built with Electrobun and Bun — 14MB size, 50ms startup time, without bundled Chromium."
 skills:
   - "TypeScript"
   - "Bun"

@@ -4,7 +4,7 @@ tipo: "proyecto"
 fecha: "2026-02"
 titulo: "Locus AR"
 subtitulo: "Open Source · AR Engine"
-descripcion: "Motor de realidad aumentada 100% JavaScript para el navegador — sin TensorFlow.js, con tracking de imágenes ultrarrápido y compilación JIT."
+descripcion: "100% JavaScript augmented reality engine for the browser — without TensorFlow.js, featuring ultra-fast image tracking and JIT compilation."
 skills:
   - "TypeScript"
   - "AR/VR"

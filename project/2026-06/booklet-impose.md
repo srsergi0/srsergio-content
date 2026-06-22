@@ -4,7 +4,7 @@ tipo: "proyecto"
 fecha: "2026-06"
 titulo: "booklet-impose"
 subtitulo: "Open Source · PDF Tool"
-descripcion: "Script en Python que transforma PDFs en formato booklet para impresión dúplex y plegado — ideal para fanzines, cuadernillos y autoedición."
+descripcion: "Python script that transforms PDFs into booklet format for duplex printing and folding — ideal for zines, booklets, and self-publishing."
 skills:
   - "Python"
   - "PDF"

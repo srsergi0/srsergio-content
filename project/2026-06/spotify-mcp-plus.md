@@ -4,7 +4,7 @@ tipo: "proyecto"
 fecha: "2026-06"
 titulo: "Spotify MCP Plus"
 subtitulo: "Open Source · MCP Server"
-descripcion: "Servidor MCP que permite a asistentes AI como Claude, Cursor y opencode controlar Spotify — reproduce, busca, crea playlists y analiza audio features."
+descripcion: "MCP server enabling AI assistants like Claude, Cursor, and opencode to control Spotify — play, search, create playlists, and analyze audio features."
 skills:
   - "TypeScript"
   - "MCP"

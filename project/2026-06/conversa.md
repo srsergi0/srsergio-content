@@ -4,7 +4,7 @@ tipo: "proyecto"
 fecha: "2026-06"
 titulo: "Conversa SDK"
 subtitulo: "Open Source · Chat SDK"
-descripcion: "Zero-boilerplate WhatsApp SDK en TypeScript que automatiza autenticación, reconexión y almacenamiento de credenciales para construir bots en 3 líneas de código."
+descripcion: "Zero-boilerplate WhatsApp SDK in TypeScript that automates authentication, reconnection, and credential storage to build bots in 3 lines of code."
 skills:
   - "TypeScript"
   - "WebSockets"

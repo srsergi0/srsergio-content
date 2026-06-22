@@ -2,9 +2,9 @@
 id: 17
 tipo: "proyecto"
 fecha: "2026-05"
-titulo: "Sistema READ"
+titulo: "READ System"
 subtitulo: "Open Source · SRS Protocol"
-descripcion: "Protocolo de repetición espaciada analógica por desbordamiento — usa el grosor físico de tus mazos de tarjetas como sensor biométrico para ajustar intervalos de repaso."
+descripcion: "Analog overflow-based spaced repetition protocol — uses physical card deck thickness as a biometric sensor to adjust review intervals."
 skills:
   - "JavaScript"
   - "Bun"

@@ -2,9 +2,9 @@
 id: 16
 tipo: "proyecto"
 fecha: "2026-06"
-titulo: "UNO para Redmi Watch 5"
+titulo: "UNO for Redmi Watch 5"
 subtitulo: "Open Source · Wearable Game"
-descripcion: "Versión completa del UNO clásico para smartwatches HyperOS — single-player contra bots y multijugador local en pantalla de 432×514."
+descripcion: "Full version of classical UNO for HyperOS smartwatches — single-player against bots and local multiplayer on a 432×514 screen."
 skills:
   - "JavaScript"
   - "Xiaomi Vela"

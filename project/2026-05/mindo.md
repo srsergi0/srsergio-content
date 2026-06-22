@@ -4,7 +4,7 @@ tipo: "proyecto"
 fecha: "2026-05"
 titulo: "Mindo"
 subtitulo: "Open Source · Chinese Learning"
-descripcion: "Plataforma interactiva para aprender chino a través de la música — letras analizadas por AI, diccionario integrado, word maps y flashcards."
+descripcion: "Interactive platform to learn Chinese through music — AI-analyzed lyrics, integrated dictionary, word maps, and flashcards."
 skills:
   - "Astro"
   - "React"
