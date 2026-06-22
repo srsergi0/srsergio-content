@@ -4,7 +4,7 @@ tipo: "investigacion"
 fecha: "2022-12"
 titulo: "Digital Transformation"
 subtitulo: "University of Virginia"
-descripcion: "Certificación en Transformación Digital (Dec 2022). También: Customer-Centric IT Strategy (Jan 2023), Digital Product Management: Modern Fundamentals (Jan 2023) y Design Thinking for Innovation (Jan 2023). Estrategias para liderar el cambio digital centrado en el cliente."
+descripcion: "Certification in Digital Transformation. Also: Customer-Centric IT Strategy, Digital Product Management: Modern Fundamentals, and Design Thinking for Innovation. Strategies for leading customer-centered digital change."
 skills:
   - "Digital Transformation"
   - "Design Thinking"
@@ -13,22 +13,23 @@ skills:
 url: 
 institucion: "University of Virginia"
 imagen: 
+problem: "Organizations adopt technology for efficiency but miss the bigger opportunity: using technology to create genuine customer value and sustainable competitive advantage."
+solution: "Certifications in digital transformation, customer-centric IT strategy, product management, and design thinking from UVA Darden."
+impact: "A reusable digital maturity framework and design thinking sprints that validate assumptions before writing a single line of code."
+statLabel: "VALIDATION SPRINTS"
+statVal: "2-3 PER PROJECT"
 ---
 
-## Por qué certificaciones en UVA
+I needed to formalize years of practical experience with world-class academic frameworks. UVA's Darden School of Business has one of the best digital transformation programs in the world.
 
-Necesitaba formalizar mi experiencia práctica con marcos académicos de clase mundial. La Darden School of Business de UVA tiene uno de los mejores programas de digital transformation del mundo.
+The Digital Transformation course taught me that technology alone doesn't transform organizations. Value creation transforms organizations. I learned frameworks for assessing digital maturity and designing transformation roadmaps that account for culture, not just infrastructure.
 
-## Cursos completados
+Customer-Centric IT Strategy was the mindset shift. The customer doesn't want "better technology." They want "better experience." This seems obvious until you sit in enough IT meetings where nobody has talked to a customer in six months.
 
-- **Digital Transformation** (Dec 2022): Cómo las organizaciones pueden usar tecnología para crear valor, no solo eficiencia. Aprendí frameworks para evaluar la madurez digital y diseñar roadmaps de transformación.
-- **Customer-Centric IT Strategy** (Jan 2023): Estrategias IT alineadas con la experiencia del cliente. El cliente no quiere "mejor tecnología", quiere "mejor experiencia".
-- **Digital Product Management** (Jan 2023): Gestión de productos digitales modernos. From discovery to delivery, continuous discovery, y métricas de producto.
-- **Design Thinking for Innovation** (Jan 2023): El proceso de design thinking aplicado a innovación tecnológica. Empathize, Define, Ideate, Prototype, Test.
+Digital Product Management covered modern product fundamentals — from discovery to delivery, continuous validation, and product metrics that actually matter. Not vanity metrics. Metrics tied to customer outcomes.
 
-## Framework que más uso
+Design Thinking for Innovation gave me a repeatable process: empathize, define, ideate, prototype, test. I now run two to three design thinking sprints per project before committing to build. The result is fewer surprises, less rework, and products that actually solve the right problem.
 
-> *"El framework de Customer-Centric IT Strategy me cambió la forma de trabajar. Antes preguntaba '¿qué tecnología necesitas?'. Ahora pregunto '¿qué problema estás intentando resolver para tu cliente?'"*
+The framework I use most is the digital maturity assessment. I apply it at the start of every engagement. It reveals gaps the client didn't know they had and priorities they hadn't considered.
 
-- Evaluación de madurez digital: Herramienta que aplico en cada engagement
-- Design Thinking sprints: 2-3 sprints por proyecto para validar antes de construir
+The lesson: transformation is not about adopting new tools. It's about asking better questions.

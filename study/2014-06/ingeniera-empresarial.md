@@ -2,35 +2,30 @@
 id: 6
 tipo: "estudio"
 fecha: "2014-06"
-titulo: "Ingeniería Empresarial"
+titulo: "Business Engineering"
 subtitulo: "Universidad Continental"
-descripcion: "Formación en ingeniería con enfoque empresarial. Base en gestión, tecnología y pensamiento sistémico que integra negocio con tecnología."
+descripcion: "Engineering education with a business focus. Foundation in management, technology, and systemic thinking that integrates business with technology naturally."
 skills:
-  - "Gestión"
-  - "Tecnología"
-  - "Negocios"
-  - "Emprendimiento"
+  - "Management"
+  - "Technology"
+  - "Business"
+  - "Entrepreneurship"
 url: 
 institucion: "Universidad Continental"
 imagen: 
+problem: "Pure engineering ignores business reality. Pure business ignores technical possibility. Neither alone solves real organizational problems."
+solution: "An engineering degree with business focus that taught systemic thinking — seeing organizations as integrated wholes rather than isolated parts."
+impact: "The ability to connect technology with business outcomes naturally, without translating between two separate worlds."
+statLabel: "INVENTORY TIME"
+statVal: "-87%"
 ---
 
-## Qué fue la carrera
+Business Engineering is neither pure engineering nor pure management. It's the intersection: learning to think like an engineer but with business vision.
 
-Ingeniería Empresarial no es ingeniería pura ni administración pura. Es la intersección: aprender a pensar como ingeniero pero con visión de negocio.
+The curriculum covered project management methodologies, information systems design, entrepreneurship, statistics, and programming. My first contact with Python, Java, and SQL databases happened here. I learned how organizations process information, how projects move from idea to execution, and how to validate business models before building them.
 
-## Cursos clave
+My thesis project was a practical test. I designed an inventory management system for a local company using PHP and MySQL. The system reduced inventory management time from four hours daily to thirty minutes.
 
-- **Gestión de proyectos**: Metodologías ágiles, estructura de trabajo, y cómo llevar un proyecto de la idea a la ejecución.
-- **Sistemas de información**: Diseño de bases de datos, arquitectura de sistemas, y flujo de información en organizaciones.
-- **Emprendimiento**: Creación de modelos de negocio, validación de ideas, pitch decks y financiamiento.
-- **Estadística y análisis de datos**: Bases de la toma de decisiones basada en datos.
-- **Programación**: Primer contacto con Python, Java y bases de datos SQL.
+But the real takeaway was systemic thinking. The ability to see an organization as a whole — where technology decisions affect operations, where operations affect customers, where customer feedback drives strategy. This perspective is what allows me to connect technology with business outcomes without friction.
 
-## Proyecto de tesis
-
-Diseñé un sistema de gestión de inventario para una empresa local usando PHP y MySQL. El sistema redujo el tiempo de gestión de inventario de 4 horas diarias a 30 minutos.
-
-## Lo que me dejó
-
-La carrera me dio el pensamiento sistémico: ver la organización como un todo, no como partes aisladas. Eso es lo que me permite hoy conectar tecnología con negocio de forma natural.
+Most technologists struggle to speak business. Most business people struggle to understand technology. Business Engineering taught me both from day one.

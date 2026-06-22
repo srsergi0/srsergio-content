@@ -13,6 +13,11 @@ skills:
 url: "https://github.com/srsergi0/spotify-mcp-plus"
 imagen: "https://images.unsplash.com/photo-1611339555312-e607c8352fd7?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Switching between editor and music app breaks focus. Voice assistants lack context about your work, taste, and schedule."
+solution: "An MCP server that plugs Spotify into any AI assistant, enabling natural language music control with full contextual awareness."
+impact: "Zero context switching — control your entire music library without leaving the coding flow."
+statLabel: "CONTEXT SWITCHES"
+statVal: "0"
 ---
 
 I code with music all day. But switching between my editor and Spotify to find a song, adjust volume, or skip a track breaks my focus. It's a context switch I can't afford.

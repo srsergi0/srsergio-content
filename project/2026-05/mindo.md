@@ -15,6 +15,11 @@ skills:
 url: "https://mindo-app.vercel.app"
 imagen: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Chinese learning apps are either gamified fluff or sterile flashcard grinders. Neither teaches you how people actually speak in the real world."
+solution: "An interactive platform that turns Chinese songs into structured lessons — AI translation, Magma syntax parsing, HSK grading, and a full dictionary with semantic search."
+impact: "1500 songs processed into clickable, searchable learning material that teaches real spoken language through music."
+statLabel: "SONGS PROCESSED"
+statVal: "1500+"
 ---
 
 Chinese learning apps are either gamified fluff or sterile flashcard grinders. Neither teaches you how people actually speak. Music does — but raw lyrics are useless to a learner: no pinyin, no translation, no structure. Just a wall of characters.

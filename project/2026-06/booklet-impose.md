@@ -13,6 +13,11 @@ skills:
 url: "https://github.com/srsergi0/booklet-impose"
 imagen: "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Print shops charge $40 and three days for simple booklet imposition. Software is overpriced, GUI-only, or produces garbage output."
+solution: "A zero-config Python CLI that transforms any PDF into a print-ready booklet with one command and auto-detected page sizes."
+impact: "Booklet imposition goes from days and dollars to seconds and free — with HTML preview, crop marks, and de-imposition support."
+statLabel: "SETUP TIME"
+statVal: "0s"
 ---
 
 I needed to print a zine. That's it. Take a PDF, turn it into a booklet, fold it in the middle.

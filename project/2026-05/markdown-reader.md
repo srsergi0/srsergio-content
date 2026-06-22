@@ -13,6 +13,11 @@ skills:
 url: "https://github.com/srsergi0/markdown-reader"
 imagen: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Every Markdown editor is a compromise — web apps with no file association, or Electron apps shipping 150MB just to display text."
+solution: "A 14MB native desktop app using the system WebView instead of bundled Chromium, with instant file association and real-time sync."
+impact: "Startup under 50ms with full GFM, live editing, folder browser, and cross-platform support from a single codebase."
+statLabel: "BUNDLE SIZE"
+statVal: "14MB"
 ---
 
 I use Markdown for everything. Notes, docs, blog drafts, project specs. But every Markdown editor is a compromise. Web apps with no file association. Or Electron apps shipping 150MB to display text.

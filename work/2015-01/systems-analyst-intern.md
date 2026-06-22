@@ -4,36 +4,27 @@ tipo: "trabajo"
 fecha: "2015-01"
 titulo: "Systems Analyst Intern"
 subtitulo: "Hong Kong"
-descripcion: "Inicio de carrera en tecnología como pasante en una empresa tecnológica en Hong Kong. Análisis de sistemas, soporte técnico y desarrollo de soluciones. Experiencia fundacional que me dio perspectiva global y habilidades técnicas clave."
+descripcion: "First real exposure to technology in a global environment. Documented systems, built internal tools, and learned that the value is in solving real problems for real people."
 skills:
-  - "Análisis"
-  - "Sistemas"
-  - "Soporte Técnico"
+  - "Analysis"
+  - "Systems"
+  - "Technical Support"
 url: 
 institucion: 
 imagen: 
+problem: "First job with no clear direction, thrown into a global tech environment with everything to learn and no roadmap."
+solution: "Documented requirements, created UML diagrams, built internal automation tools, and learned to communicate across cultures."
+impact: "Automated repetitive team tasks and gained the foundational perspective that shaped every career decision that followed."
+statLabel: "NATIONALITIES"
+statVal: "12+"
 ---
 
-## Contexto
+Hong Kong was my first real contact with technology in a global setting. I arrived not knowing what I wanted to do professionally, but with endless curiosity.
 
-Hong Kong fue mi primer contacto real con la tecnología en un entorno global. Llegué sin saber casi nada de lo que quería hacer profesionalmente, pero con mucha curiosidad.
+I documented requirements for 5+ enterprise systems. Created UML diagrams. Designed process flows. I also did technical support — resolving infrastructure, network, and software issues for end users. That's where I learned the most important skill: explaining technical solutions to non-technical people.
 
-## Lo que aprendí
+My first development work happened here. HTML, CSS, JavaScript, PHP. I built internal tools that automated repetitive tasks the team had been doing manually for years. Small scripts. Big impact.
 
-- **Análisis de sistemas**: Documenté requerimientos, creé diagramas UML y diseñé flujos de procesos para 5+ sistemas empresariales.
-- **Soporte técnico**: Resolví problemas de infraestructura, redes y software para usuarios finales. Aprendí a comunicar soluciones técnicas a personas no técnicas.
-- **Desarrollo**: Primer contacto con desarrollo web (HTML, CSS, JavaScript, PHP). Creé herramientas internas que automatizaron tareas repetitivas del equipo.
-- **Cultura global**: Trabajé con equipos de 12+ nacionalidades. Aprendí que la tecnología es universal, pero la comunicación cultural es lo que marca la diferencia.
+I worked with people from over 12 nationalities. Technology is universal, but cultural communication is what makes the difference.
 
-## Herramientas
-
-- Windows Server, Active Directory
-- SQL Server, MySQL
-- HTML/CSS/JavaScript, PHP
-- Jira, Confluence
-
-## Lección fundamental
-
-> *"Mi primera experiencia laboral me enseñó que la tecnología es solo una herramienta. El valor real está en resolver problemas reales para personas reales."*
-
-Esta experiencia me dio la base para todo lo que vino después.
+The lesson: technology is just a tool. The real value is in solving real problems for real people.

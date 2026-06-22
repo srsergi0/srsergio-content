@@ -14,6 +14,11 @@ skills:
 url: "https://github.com/srsergi0/flashcard-calculator"
 imagen: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Time-based SRS apps punish you for being human — skip two days and face hundreds of due cards with guilt, anxiety, and an endless backlog."
+solution: "An analog overflow protocol where physical deck thickness triggers reviews, using queueing theory to adapt to your cognitive load without daily compliance."
+impact: "No notifications, no guilt, no backlog — just a physical box telling you, in centimeters, when your brain is ready for more."
+statLabel: "DAILY COMPLIANCE"
+statVal: "NONE"
 ---
 
 I used Anki for years. It's mathematically elegant. And it makes me miserable.

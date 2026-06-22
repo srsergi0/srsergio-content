@@ -13,6 +13,11 @@ skills:
 url: "https://github.com/srsergi0/anki-universal-extractor"
 imagen: "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Anki traps your flashcards in a proprietary SQLite format with dynamic fields, hidden media maps, and aggressive database locks that prevent extraction."
+solution: "A single-command Bun tool that extracts any .apkg to clean flat JSON with original media filenames automatically restored."
+impact: "5000 cards extracted in under a second — your data is as easy to exit as it was to enter."
+statLabel: "EXTRACTION SPEED"
+statVal: "<1s"
 ---
 
 Anki stores your cards in a SQLite database inside `.apkg` files. Sounds simple to extract.

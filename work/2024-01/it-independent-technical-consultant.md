@@ -3,39 +3,32 @@ id: 1
 tipo: "trabajo"
 fecha: "2024-01"
 titulo: "IT Independent Technical Consultant"
-subtitulo: "Digital Transformation Specialist en Giant Media"
-descripcion: "Consultoría tecnológica independiente especializada en transformación digital, estrategias AI, arquitectura de sistemas y liderazgo de proyectos. Ayudo a organizaciones a navegar su evolución tecnológica — desde implementación de AI hasta optimización de procesos."
+subtitulo: "Digital Transformation Specialist at Giant Media"
+descripcion: "Independent consulting focused on AI implementation, cloud architecture, and team autonomy. Helping organizations evolve technologically without losing their operational essence."
 skills:
   - "AI"
   - "Digital Transformation"
   - "Cloud"
-  - "Consultoría"
-  - "Liderazgo"
+  - "Consulting"
+  - "Leadership"
 url: 
 institucion: "Giant Media"
 imagen: 
+problem: "Companies struggle with digital transformation — adopting AI and cloud without losing their operational essence or overwhelming their teams."
+solution: "Independent consulting combining AI strategy, serverless cloud architecture, and hands-on team mentoring for sustainable autonomy."
+impact: "40% infrastructure cost cut via serverless, 60% of repetitive tasks automated with AI pipelines, deploy lead time from 2 days to 15 minutes."
+statLabel: "DEPLOY LEAD TIME"
+statVal: "15min"
 ---
 
-## Contexto
+After years leading internal teams, I jumped to independent consulting to work with organizations that want to transform digitally without losing their human core.
 
-Tras años liderando equipos internos, di el salto a consultoría independiente para trabajar con organizaciones que buscan transformarse digitalmente sin perder su esencia humana.
+I implement AI solutions for process automation, predictive analytics, and experience personalization. But the real work is never the model — it's the integration. Making AI actually work with legacy systems, messy data, and skeptical teams.
 
-## Áreas de trabajo
+I design and migrate infrastructure to AWS, GCP, and Azure. The goal isn't just cost reduction. It's making teams self-sufficient. I've cut infrastructure costs by 40% using serverless, but the bigger win is that clients no longer need me for every deployment.
 
-- **Estrategia AI**: Implementación de soluciones de inteligencia artificial para automatización de procesos, análisis predictivo y personalización de experiencias.
-- **Arquitectura cloud**: Diseño y migración de infraestructuras a AWS, GCP y Azure, optimizando costes y rendimiento.
-- **Liderazgo técnico**: Mentoring de equipos, definición de roadmaps tecnológicos y gestión de proyectos ágiles.
+I mentor teams, define technology roadmaps, and run agile projects. The best compliment I've received: "You made us realize we could do this ourselves."
 
-## Herramientas & Stack
+CI/CD pipelines that reduced deploy lead time from two days to fifteen minutes. AI pipelines that automated 60% of repetitive tasks. Teams that became autonomous.
 
-- **Cloud**: AWS (EC2, Lambda, S3, RDS), GCP (BigQuery, Cloud Run), Azure (AD, Functions)
-- **AI/ML**: OpenAI API, LangChain, Hugging Face, embeddings personalizados para RAG
-- **DevOps**: Docker, Kubernetes, Terraform, GitHub Actions, ArgoCD
-- **Data**: PostgreSQL, MongoDB, Redis, Apache Kafka
-
-## Resultados
-
-- Reducción del 40% en costes de infraestructura migrando workloads a serverless
-- Implementación de pipelines AI que automatizaron el 60% de tareas repetitivas del equipo
-- Equipos formados y autónomos en la gestión de su stack tecnológico
-- Reducción del lead time de deploy de 2 días a 15 minutos con CI/CD completo
+The lesson: the best consultants make themselves unnecessary.

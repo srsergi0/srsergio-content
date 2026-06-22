@@ -3,36 +3,29 @@ id: 3
 tipo: "trabajo"
 fecha: "2019-01"
 titulo: "Systems Manager"
-subtitulo: "Empresa tecnológica"
-descripcion: "Gestión de equipos técnicos, administración de sistemas y supervisión de infraestructura tecnológica. Responsable de la estrategia técnica y la entrega de proyectos."
+subtitulo: "Technology Company"
+descripcion: "Led a team of 8 engineers, managed full infrastructure, and shifted culture from reactive firefighting to proactive prevention."
 skills:
   - "IT Management"
-  - "Infraestructura"
-  - "Equipos"
-  - "Proyectos"
+  - "Infrastructure"
+  - "Leadership"
+  - "Projects"
 url: 
 institucion: 
 imagen: 
+problem: "The team culture was purely reactive — firefighters putting out incidents instead of preventing them."
+solution: "Built proactive monitoring, implemented weekly 1:1s and career ladders, and delivered 12 technical projects with disciplined execution."
+impact: "Critical incidents dropped 75% in 6 months and security incidents were reduced by 70%."
+statLabel: "INCIDENT REDUCTION"
+statVal: "75%"
 ---
 
-## Responsabilidades
+My first management role. I went from individual contributor to leading a team of 8 engineers and running the entire company infrastructure.
 
-Primer rol de management. Pasé de ser individual contributor a liderar un equipo de 8 ingenieros y administrar toda la infraestructura de la empresa.
+The culture was broken. Everyone was firefighting. Alerts at 2 AM. Blame instead of learning. I implemented weekly 1:1s, built a career ladder, and most importantly — proactive monitoring that caught issues before users did.
 
-## Lo que hice
+I led the migration from on-premise to a hybrid environment. Managed Linux and Windows servers, networks, firewalls. Implemented security policies and quarterly audits.
 
-- **Gestión de equipo**: Recluté, mentoricé y gestioné un equipo de 8 ingenieros de sistemas. Implementé 1:1s semanales, retrospectivas y un sistema de career ladder interno.
-- **Infraestructura**: Administré servidores Linux/Windows, redes, firewalls, y la migración completa de on-premise a un entorno híbrido.
-- **Seguridad**: Implementé políticas de seguridad, auditorías trimestrales y response plan ante incidentes. Redujimos los incidentes de seguridad un 70%.
-- **Proyectos**: Lideré la entrega de 12 proyectos técnicos con un promedio de 95% de entregas a tiempo.
+The hardest part wasn't technical. It was changing the team's mindset from "someone else's problem" to "our system, our responsibility." That shift took six months. The result was worth it.
 
-## Herramientas
-
-- **Monitoring**: Nagios, Grafana, Prometheus
-- **Virtualización**: VMware vSphere, Proxmox
-- **Networking**: Cisco, MikroTik, pfSense
-- **Project Management**: Jira, Confluence
-
-## Reto más grande
-
-El mayor reto fue cambiar la cultura del equipo de "apagar incendios" a "prevenir problemas". Implementé un sistema de alertas proactivas que redujo los incidentes críticos un 75% en 6 meses.
+Twelve projects delivered. Ninety-five percent on time. And for the first time in years, the team slept through the night.

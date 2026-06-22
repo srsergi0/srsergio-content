@@ -112,7 +112,18 @@ The lesson isn't technical. It's about questioning defaults. A text reader doesn
 
 **Code comments:** English.
 
-**Frontmatter/descriptions:** Spanish is acceptable for SEO/metadata, but the body must be English.
+**Frontmatter/descriptions:** English. Always. All SEO metadata and VLP parameters must be written in clear, concise English.
+
+### Portfolio Frontmatter (VLP / Sales Funnel Specs)
+
+To power the high-end interactive showroom and expandable dynamic list, every portfolio entry (`project/**/*.md`, `work/**/*.md`, etc.) must include the following VLP fields in its frontmatter:
+
+- `problem`: A brutally honest summary of the friction or pain point. (e.g., "Current WhatsApp automation libraries require complex low-level code and manual session management.")
+- `solution`: The elegant, simplified engineering solution you built. (e.g., "Conversa wraps everything in a clean TypeScript API that manages sockets and session persistence automatically.")
+- `impact`: The real-world return, takeaway, or business value. (e.g., "Boilerplate code is reduced from 300+ lines to only 3 lines of native code.")
+- `statLabel`: An uppercase technical metric label representing the core advantage (e.g., "BOILERPLATE REDUCTION", "COMMAND LATENCY", "RPK BUNDLE SIZE").
+- `statVal`: The corresponding value of the metric (e.g., "99%", "1.2ms", "500KB").
+
 
 ### Length
 

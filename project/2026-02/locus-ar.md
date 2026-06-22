@@ -13,6 +13,11 @@ skills:
 url: "https://github.com/srsergi0/taptapp-ar"
 imagen: "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Everyone assumes AR needs TensorFlow.js — 20MB of dependencies, 3-second mobile initialization, and tracking worse than simple algorithms."
+solution: "A zero-dependency image tracking engine built with 500 lines of JavaScript, a custom binary protocol, and hardware-accelerated matching."
+impact: "14x faster compilation, 86% smaller target files, and detection under 10ms on a regular CPU."
+statLabel: "DETECTION LATENCY"
+statVal: "<10ms"
 ---
 
 Everyone told me AR needed TensorFlow.js. "Computer vision requires machine learning," they said. So I tried it. 20MB of dependencies. 3-second initialization on mobile. And tracking that was worse than what I ended up building with 500 lines of JavaScript.

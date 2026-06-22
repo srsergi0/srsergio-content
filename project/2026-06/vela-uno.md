@@ -13,6 +13,11 @@ skills:
 url: "https://github.com/srsergi0/vela-uno"
 imagen: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+problem: "Smartwatches have no meaningful apps or games — just notifications and fitness tracking. The entire wearable ecosystem is empty."
+solution: "A full UNO game built natively for Xiaomi Vela/HyperOS, with single-player bots and local multiplayer on a 432×514 screen."
+impact: "Complete card game experience in a 500KB package — no phone, no store, just sideload and play."
+statLabel: "BUNDLE SIZE"
+statVal: "500KB"
 ---
 
 I bought a Redmi Watch 5 and realized there's nothing to do on it. Notifications. Sleep tracking. Weather. That's it. The entire app ecosystem for wearables is empty.

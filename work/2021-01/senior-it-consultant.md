@@ -3,33 +3,32 @@ id: 2
 tipo: "trabajo"
 fecha: "2021-01"
 titulo: "Senior IT Consultant"
-subtitulo: "Consultoría tecnológica global"
-descripcion: "Lideré equipos técnicos, desarrollé soluciones IT y construí relaciones sólidas con clientes internacionales. Especializado en transformación digital, optimización de procesos y adopción de nuevas tecnologías."
+subtitulo: "Global Technology Consulting"
+descripcion: "Led technical teams and delivered solutions across LATAM, North America, and Europe. Specialized in digital transformation, cloud optimization, and connecting technology to business outcomes."
 skills:
   - "IT Strategy"
-  - "Consultoría"
+  - "Consulting"
   - "Cloud"
-  - "Liderazgo"
-  - "Innovación"
+  - "Leadership"
+  - "Innovation"
 url: 
 institucion: 
 imagen: 
+problem: "Organizations were spending millions on infrastructure that didn't align with their actual business needs or growth trajectories."
+solution: "Led cloud migrations, RPA automation, and digital strategy — always connecting the technical solution to the business outcome."
+impact: "35% cost reduction for a 200-store retail chain, 120 hours of manual work eliminated monthly, and a fintech scaled from 0 to 50K users in 8 months."
+statLabel: "COST REDUCTION"
+statVal: "35%"
 ---
 
-## Rol
+Senior IT Consultant working with clients across Latin America, North America, and Europe. Every project required understanding the business context, not just the technical problem.
 
-Senior IT Consultant trabajando con clientes en América Latina, Norteamérica y Europa. Cada proyecto requería entender el contexto del negocio, no solo el problema técnico.
+I led the cloud migration for a retail chain with 200+ stores. From on-premise to AWS. The result was a 35% reduction in operational costs and 99.9% uptime. But the real win was teaching their team to manage it themselves.
 
-## Proyectos destacados
+For a manufacturing client, I implemented RPA with UiPath that eliminated 120 hours of manual work every month. Reports and accounting tasks that used to take days now ran while people slept.
 
-- **Migración cloud para retail**: Lideré la migración de una cadena de retail de 200+ tiendas desde infraestructura on-premise a AWS. El resultado fue una reducción del 35% en costes operativos y un 99.9% de uptime.
-- **Automatización de procesos para manufactura**: Implementé soluciones de RPA con UiPath que eliminaron 120 horas mensuales de trabajo manual en reportes y contabilidad.
-- **Estrategia digital para fintech**: Definí la arquitectura técnica y el roadmap de tecnología para un startup fintech que creció de 0 a 50K usuarios en 8 meses.
+For a fintech startup, I defined the technical architecture and technology roadmap. They grew from zero to 50,000 users in eight months. The infrastructure didn't break once.
 
-## Aprendizajes clave
+I developed a digital maturity assessment framework that I used at 15+ organizations. The best relationships turned into recurring contracts not because of the technology, but because I spoke business first and code second.
 
-> *"La tecnología sin estrategia es solo ruido. El verdadero valor está en conectar la solución con el problema del negocio."*
-
-- Aprendí a comunicar tecnología a stakeholders no técnicos
-- Desarrollé un framework de evaluación de madurez digital que usé en 15+ organizaciones
-- Construí relaciones de largo plazo que se convirtieron en contratos recurrentes
+The lesson: technology without strategy is just noise. The real value is connecting the solution to the business problem.

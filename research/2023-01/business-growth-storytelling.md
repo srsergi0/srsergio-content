@@ -4,36 +4,32 @@ tipo: "investigacion"
 fecha: "2023-01"
 titulo: "Business Growth & Storytelling"
 subtitulo: "University of Virginia · Macquarie University"
-descripcion: "Business Growth Strategy (UVA, Jan 2023), Leading the Modern Day Business (UVA), y Storytelling and influencing: Communicate with impact (Macquarie University, Jan 2023). Estrategia de negocio, liderazgo y comunicación efectiva."
+descripcion: "Business Growth Strategy (UVA), Leading the Modern Day Business (UVA), and Storytelling and Influencing: Communicate with Impact (Macquarie University). Business strategy, leadership, and effective communication."
 skills:
   - "Business Strategy"
   - "Storytelling"
-  - "Liderazgo"
-  - "Comunicación"
+  - "Leadership"
+  - "Communication"
 url: 
 institucion: "UVA · Macquarie University"
 imagen: 
+problem: "The best strategy in the world is useless if you can't communicate it. Ideas die in spreadsheets and bullet points."
+solution: "Intensive training in business growth strategy, modern leadership, and storytelling that drives action instead of just informing."
+impact: "Proposal close rate increased 25% after rewriting everything with narrative structure instead of feature lists."
+statLabel: "CLOSE RATE"
+statVal: "+25%"
 ---
 
-## Cursos completados
+I used to think storytelling was for marketers. Engineers deal in facts, data, logic. Then I watched a brilliant technical proposal die because the client couldn't see the value through the specifications.
 
-### UVA — Darden School of Business
+The courses changed my mind completely.
 
-- **Business Growth Strategy** (Jan 2023): Cómo las organizaciones crecen de forma sostenible. Análisis competitivo, ventajas de escala, estrategias de diversificación y expansión geográfica.
-- **Leading the Modern Day Business** (Jan 2023): Liderazgo en organizaciones modernas. Gestión de equipos remotos, cultura organizacional, y toma de decisiones bajo incertidumbre.
+Business Growth Strategy at UVA Darden taught me how organizations grow sustainably — competitive analysis, scale advantages, diversification, geographic expansion. But the real lesson was that growth without narrative is just a chart. People don't rally around charts.
 
-### Macquarie University
+Leading the Modern Day Business covered remote team management, organizational culture, and decision-making under uncertainty. The most effective leaders I studied weren't the ones with the best strategies. They were the ones who could make people feel the urgency of the problem.
 
-- **Storytelling and Influencing: Communicate with Impact** (Jan 2023): Cómo comunicar ideas de forma que generen acción. Storytelling para presentaciones ejecutivas, negociación y liderazgo.
+The Storytelling course at Macquarie University was the breakthrough. Storytelling is not "telling stories." It's structuring information so the listener understands, remembers, and acts. For presentations, for negotiation, for leadership.
 
-## Por qué storytelling
+I rewrote every client proposal using narrative structure. The close rate went up 25%. Not because the technology changed. Because the client could finally see why it mattered.
 
-Descubrí que la mejor estrategia del mundo no sirve si no puedes comunicarla. Storytelling no es "contar historias" — es estructurar la información de forma que el oyente entienda, recuerda y actúa.
-
-## Aplicación práctica
-
-- **Presentaciones ejecutivas**: Ahora uso storytelling en cada presentación a clientes. Los resultados hablan, pero las historias conectan.
-- **Propuestas comerciales**: Reescribí todas nuestras propuestas usando narrative structure. La tasa de cierre subió un 25%.
-- **Liderazgo de equipo**: Uso storytelling para alinear al equipo con la visión. No es "haz esto" — es "esto es por qué importa".
-
-> *"La tecnología sin storytelling es una hoja de cálculo. El storytelling sin tecnología es solo ruido. Juntos, son transformación."*
+The lesson: technology without storytelling is a spreadsheet. Storytelling without technology is just noise. Together, they transform organizations.

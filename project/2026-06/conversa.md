@@ -13,6 +13,12 @@ skills:
 url: "https://github.com/srsergi0/conversa"
 imagen: "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=1200&q=80"
 destacado: true
+video: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+problem: "Current WhatsApp automation libraries require complex low-level code and manual session management."
+solution: "Conversa wraps everything in a clean TypeScript API that manages sockets and session persistence automatically."
+impact: "Boilerplate code is reduced from 300+ lines to only 3 lines of native code."
+statLabel: "BOILERPLATE REDUCTION"
+statVal: "99%"
 ---
 
 I wanted to build a WhatsApp bot. Should be easy, right? There's Baileys — the gold standard for WhatsApp automation. It's powerful. It's battle-tested. And it's a nightmare to work with.
